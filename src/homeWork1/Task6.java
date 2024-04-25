@@ -1,3 +1,5 @@
+package homeWork1;
+
 public class Task6 {
     public static void main(String[] args) {
         int numberOfBananas = 5;

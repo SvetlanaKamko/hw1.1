@@ -1,3 +1,5 @@
+package homeWork1;
+
 public class Task3 {
     public static void main(String[] args) {
         byte studentsLudPav = 23;

@@ -1,3 +1,5 @@
+package homeWork1;
+
 public class Task5 {
     public static void main(String[] args) {
         int totalBottles = 16;

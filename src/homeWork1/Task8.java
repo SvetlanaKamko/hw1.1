@@ -1,3 +1,5 @@
+package homeWork1;
+
 public class Task8 {
     public static void main(String[] args) {
         int startSalaryMasha = 67760;

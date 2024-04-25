@@ -1,3 +1,5 @@
+package homeWork1;
+
 public class Task2 {
     public static void main(String[] args) {
         double d = 27.12;
